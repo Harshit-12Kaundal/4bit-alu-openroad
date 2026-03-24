@@ -42,13 +42,13 @@ The design demonstrates a complete RTL-to-GDSII ASIC flow including synthesis, f
 ## 📊 Results
 
 ### 🧱 Final Layout
-![Layout](images/Layout.png)
+![Layout](images/FLAYOUT.png)
 
 ### ⏱️ Setup Timing
-![Setup](images/Setup time.png)
+![Setup](images/SetupTime.png)
 
 ### ⏱️ Hold Timing
-![Hold](images/Hold Time.png)
+![Hold](images/HoldTime.png)
 
 ### 🔥 Critical Path
 ![Critical Path](images/heatamp.png)
