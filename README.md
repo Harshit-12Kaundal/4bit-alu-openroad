@@ -51,7 +51,7 @@ The design demonstrates a complete RTL-to-GDSII ASIC flow including synthesis, f
 ![Hold](images/HoldTime.png)
 
 ### 🔥 Critical Path
-![Critical Path](images/heatamp.png)
+![HeatMap](images/heatmap.png)
 
 ---
 
